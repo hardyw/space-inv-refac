@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/2011w2/!svn/ver/4280/lectures/SpaceInvadersRefactored/src/ca/ubc/cpsc210/spaceinvaders/model
+END
+Tank.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/2011w2/!svn/ver/4280/lectures/SpaceInvadersRefactored/src/ca/ubc/cpsc210/spaceinvaders/model/Tank.java
+END
+SIGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/2011w2/!svn/ver/4280/lectures/SpaceInvadersRefactored/src/ca/ubc/cpsc210/spaceinvaders/model/SIGame.java
+END
+Missile.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/2011w2/!svn/ver/4280/lectures/SpaceInvadersRefactored/src/ca/ubc/cpsc210/spaceinvaders/model/Missile.java
+END
+Sprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/2011w2/!svn/ver/4280/lectures/SpaceInvadersRefactored/src/ca/ubc/cpsc210/spaceinvaders/model/Sprite.java
+END
+Invader.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/2011w2/!svn/ver/4280/lectures/SpaceInvadersRefactored/src/ca/ubc/cpsc210/spaceinvaders/model/Invader.java
+END
